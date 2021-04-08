@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.dbName = exports.owners = exports.prefix = exports.token = void 0;
-exports.token = 'Your_Token';
-exports.prefix = 'Your_Prefered_Prefix';
+exports.token = 'ODA2MDc0NjMzMTkwODk5NzMy.YBkJgA.EZEHlxTFVTCH2BdJHN7heKkshAc';
+exports.prefix = '@';
 exports.defaultRole = 'Your_Server_Default_Role';
 exports.serverName = 'Your_Server_Name'
 exports.logsChannel = 'Your_Channel_Where_You_Want_To_Post_Logs'
